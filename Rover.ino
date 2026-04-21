@@ -108,7 +108,7 @@ void rotate180() {
 }
 
 void forward() {
-   digitalWrite(left_motor1, LOW);
+  digitalWrite(left_motor1, LOW);
   digitalWrite(left_motor2, LOW);
   digitalWrite(right_motor1, LOW);
   digitalWrite(right_motor2, LOW);
